@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello! I'm Onel Valery Mezil
 
-<!--
-**OnelValery/OnelValery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering graduate** from the University of Ottawa, passionate about **Hardware design**, **Software development**, **Cybersecurity**, **Machine Learning**, and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+With a specialization in **Embedded Systems**, **FPGA**, **Real-Time Applications**, **Fullstack development**, and **Data Analysis**, I am dedicated to creating innovative solutions and tackling challenges through interdisciplinary engineering projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **What I'm working on:**
+- **Current Project:** Working on deepfake detection Analysis using physiological data like heart rate, Eye blink and facial landmarks pattern.
+- **Capstone Project:** Designed a custom **RISC-V SoC platform** for embedded applications.
+- **Future Goals:** Exploring AI integration into real-time systems and cybersecurity projects.
+
+## 🌍 **Skills & Technologies:**
+- **Programming:** Python, Java, JavaScript, C, C++, Go, Scheme, Prolog, SQL, Matlab, Html, Css, Ada
+- **Embedded Systems:** FPGA, SoC design, Hardware/Software co-design
+- **Web Development:** Full-stack development (HTML, CSS, JS, Python, Flask)
+- **Machine Learning & AI:** Algorithms, Data Analysis, Model Optimization
+- **Cybersecurity:** System security, Cryptography, Ethical hacking
+
+## 📫 **How to reach me:**
+- **LinkedIn:** https://www.linkedin.com/in/onel-valery-mezil-194271169/
+- **Email:** monelvalery@gmail
+- **Website/Portfolio:** https://onelvalery.github.io/CSI3540/
+
+Feel free to explore my repositories and connect with me for collaborations!
