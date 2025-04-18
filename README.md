@@ -18,7 +18,7 @@ With a specialization in **Embedded Systems**, **FPGA**, **Real-Time Application
 
 ## 📫 **How to reach me:**
 - **LinkedIn:** https://www.linkedin.com/in/onel-valery-mezil-194271169/
-- **Email:** monelvalery@gmail
+- **Email:** monelvalery@gmail / omezi035@uottawa.ca
 - **Website/Portfolio:** https://onelvalery.github.io/CSI3540/
 
 Feel free to explore my repositories and connect with me for collaborations!
